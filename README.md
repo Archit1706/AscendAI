@@ -63,6 +63,16 @@ Ascend.ai leverages a robust technology stack to deliver its AI-driven features:
 
 ## Screenshots
 
+![image](https://github.com/Archit1706/AscendAI/assets/75872913/cb5432fe-747e-4599-b59d-d4d4d60a61a4)
+![image](https://github.com/Archit1706/AscendAI/assets/75872913/4984b831-9ab8-4b08-b044-1fd3be2df129)
+![image](https://github.com/Archit1706/AscendAI/assets/75872913/06fef707-8b9c-4a19-b680-ff900950dea6)
+![image](https://github.com/Archit1706/AscendAI/assets/75872913/8524da77-fc72-4b5c-b218-ad7cb95ec28d)
+![image](https://github.com/Archit1706/AscendAI/assets/75872913/d2195606-143c-4c2b-a745-cc622da19430)
+![image](https://github.com/Archit1706/AscendAI/assets/75872913/0087cb84-7031-4c5e-b2fa-cbfc4bded498)
+![image](https://github.com/Archit1706/AscendAI/assets/75872913/626d0daa-bf68-494d-8db6-b5ab841c565b)
+![image](https://github.com/Archit1706/AscendAI/assets/75872913/f189fc39-7857-4195-9c4d-545058240503)
+
+
 ## Getting Started
 
 Follow these steps to get Ascend.ai up and running locally:
