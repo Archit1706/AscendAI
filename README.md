@@ -7,6 +7,7 @@ Welcome to Ascend.ai, your ultimate platform for mastering interview skills, enh
 -   [Problem Statement](#problem-statement)
 -   [Key Features](#key-features)
 -   [Technology Stack](#technology-stack)
+-   [Screenshots](#screenshots)
 -   [Getting Started](#getting-started)
 -   [Usage](#usage)
 <!-- -   [Contributing](#contributing) -->
@@ -59,6 +60,8 @@ Ascend.ai leverages a robust technology stack to deliver its AI-driven features:
 -   **Chatbot**: Dialogflow or Rasa for Natural Language Processing (NLP) and chatbot development.
 -   **Video Recording and Playback**: WebRTC for recording video and Video.js/Plyr for video playback with timestamps.
 -   **User Authentication and Authorization**: NextAuth.js for secure user authentication.
+
+## Screenshots
 
 ## Getting Started
 

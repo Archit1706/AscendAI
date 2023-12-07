@@ -5,4 +5,3 @@ __pycache__
 *.pickle
 *.csv
 tmp
-/Models
