@@ -7,10 +7,9 @@ Welcome to Ascend.ai, your ultimate platform for mastering interview skills, enh
 -   [Problem Statement](#problem-statement)
 -   [Key Features](#key-features)
 -   [Technology Stack](#technology-stack)
--   [Screenshots](#screenshots)
 -   [Getting Started](#getting-started)
 -   [Usage](#usage)
-<!-- -   [Contributing](#contributing) -->
+-   [Contributing](#contributing)
 -   [License](#license)
 
 ## Problem Statement
@@ -55,23 +54,11 @@ Ascend.ai leverages a robust technology stack to deliver its AI-driven features:
 
 -   **Frontend**: Next.js and Tailwind CSS for a responsive and user-friendly interface.
 -   **Database**: MongoDB for data storage and Prisma for database connections.
--   **Facial Expression Analysis**: OpenCV, Dlib, and Facial Expression Recognition models (e.g., FER, AffectNet).
--   **Tone and Pitch Analysis**: Speech recognition libraries (e.g., WebRTC VAD, PyAudio) and audio processing libraries (e.g., librosa).
--   **Chatbot**: Dialogflow or Rasa for Natural Language Processing (NLP) and chatbot development.
--   **Video Recording and Playback**: WebRTC for recording video and Video.js/Plyr for video playback with timestamps.
--   **User Authentication and Authorization**: NextAuth.js for secure user authentication.
-
-## Screenshots
-
-![image](https://github.com/Archit1706/AscendAI/assets/75872913/cb5432fe-747e-4599-b59d-d4d4d60a61a4)
-![image](https://github.com/Archit1706/AscendAI/assets/75872913/4984b831-9ab8-4b08-b044-1fd3be2df129)
-![image](https://github.com/Archit1706/AscendAI/assets/75872913/06fef707-8b9c-4a19-b680-ff900950dea6)
-![image](https://github.com/Archit1706/AscendAI/assets/75872913/8524da77-fc72-4b5c-b218-ad7cb95ec28d)
-![image](https://github.com/Archit1706/AscendAI/assets/75872913/d2195606-143c-4c2b-a745-cc622da19430)
-![image](https://github.com/Archit1706/AscendAI/assets/75872913/0087cb84-7031-4c5e-b2fa-cbfc4bded498)
-![image](https://github.com/Archit1706/AscendAI/assets/75872913/626d0daa-bf68-494d-8db6-b5ab841c565b)
-![image](https://github.com/Archit1706/AscendAI/assets/75872913/f189fc39-7857-4195-9c4d-545058240503)
-
+-   **Facial Expression Analysis**: Model: OpenCV + ResNet | Dataset: Facener Dataset.
+-   **Tone and Pitch Analysis**: Datasets: RAVDESS Emotional speech audio, Toronto emotional speech set (TESS), CREMA-D Datasets | Models: LIBROSA + 1DCNN
+-   **Chatbot**: Vector DB: Qdrant | LLM: mistral 8x7b | Dataset: scraped 30 different websites for Interview Related Questions.
+-   **Video Recording and Playback**: WebRTC for recording video and Video.js for video playback with timestamps.
+-   **User Authentication and Authorization**: Clerk
 
 ## Getting Started
 
@@ -82,7 +69,7 @@ Follow these steps to get Ascend.ai up and running locally:
 3. Configure the database and authentication settings.
 4. Start the development server.
 
-<!-- For detailed instructions, please refer to the [Installation Guide](/docs/installation.md). -->
+For detailed instructions, please refer to the [Installation Guide](/docs/installation.md).
 
 ## Usage
 
@@ -92,11 +79,11 @@ Follow these steps to get Ascend.ai up and running locally:
 -   Review your video mock interviews with detailed timestamps.
 -   Improve your interview skills and readiness with AI-driven feedback.
 
-<!-- For a more in-depth guide, please check the [User Guide](/docs/user-guide.md). -->
+For a more in-depth guide, please check the [User Guide](/docs/user-guide.md).
 
-<!-- ## Contributing -->
+## Contributing
 
-<!-- We welcome contributions to Ascend.ai. If you'd like to contribute to the development, please follow our [Contribution Guidelines](/CONTRIBUTING.md). -->
+We welcome contributions to Ascend.ai. If you'd like to contribute to the development, Open PRs and we will review them!
 
 ## License
 
