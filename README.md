@@ -7,6 +7,7 @@ Welcome to Ascend.ai, your ultimate platform for mastering interview skills, enh
 -   [Problem Statement](#problem-statement)
 -   [Key Features](#key-features)
 -   [Technology Stack](#technology-stack)
+-   [Flow Charts](#flow-charts)
 -   [Getting Started](#getting-started)
 -   [Usage](#usage)
 -   [Contributing](#contributing)
@@ -59,6 +60,20 @@ Ascend.ai leverages a robust technology stack to deliver its AI-driven features:
 -   **Chatbot**: Vector DB: Qdrant | LLM: mistral 8x7b | Dataset: scraped 30 different websites for Interview Related Questions.
 -   **Video Recording and Playback**: WebRTC for recording video and Video.js for video playback with timestamps.
 -   **User Authentication and Authorization**: Clerk
+
+## Flow Charts
+
+- **Birds Eye View**
+
+![image](https://github.com/user-attachments/assets/83fac9d1-cfa6-4bb5-adce-1dc367f4feac)
+
+- **Website Frontend Flow**
+
+![image](https://github.com/user-attachments/assets/64ac0131-fea4-48dd-9e5a-76bb682b1740)
+
+- **Website Backend and API Flow**
+
+![image](https://github.com/user-attachments/assets/42cc8698-9a6f-4b9c-92a8-1432493f277e)
 
 ## Getting Started
 
