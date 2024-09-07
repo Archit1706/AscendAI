@@ -75,6 +75,11 @@ Ascend.ai leverages a robust technology stack to deliver its AI-driven features:
 
 ![image](https://github.com/user-attachments/assets/42cc8698-9a6f-4b9c-92a8-1432493f277e)
 
+- **Retrieval Augmented Generation(RAG) Model Flow**
+
+![image](https://github.com/user-attachments/assets/2eb5e689-0154-4441-a28e-79a1089fbf90)
+
+
 ## Getting Started
 
 Follow these steps to get Ascend.ai up and running locally:
